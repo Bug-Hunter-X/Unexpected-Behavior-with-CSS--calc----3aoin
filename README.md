@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the `calc()` function in CSS.  The `bug.css` file shows the incorrect usage, resulting in an unexpected outcome. The `bugSolution.css` file provides the corrected code with appropriate spacing around operators within the `calc()` function.
